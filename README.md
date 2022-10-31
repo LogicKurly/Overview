@@ -6,6 +6,11 @@
 대회 기간 : 2022.08.19 - 2022.08.24 [결선 진출]  
 디벨롭 기간 : 2022.09.18 -  (백엔드 개발자 충원)   
 
+### 레포지토리 목록       
+[> LogicKurly-AOS](https://github.com/LogicKurly/LogicKurly-AOS)    
+[> LogicKurly-AI](https://github.com/LogicKurly/LogicKurly-AI)      
+[> LogicKurly-Server](https://github.com/LogicKurly/LogicKurly-Server)    
+
 # Team 🧑‍💻
 **로직컬리(Logic Kurly)** : '컬리'의 과제를 '논리'적으로(logically) 해결하겠다는 의미
 
